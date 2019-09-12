@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HelloEarth {
-	//static String[] names = { "indrakeet", "ashish", "abhishek", "chhavi", "shrashti" };
+	//static String[] names = { "indrajeet", "ashish", "abhishek", "chhavi", "shrashti" };
  static List<String> list;
 	public static void main(String[] args) {
        list=new ArrayList<>();
