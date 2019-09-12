@@ -13,6 +13,7 @@ public class HelloEarth {
        list.add("abhishek");
        list.add("chhavi");
        list.add("shrashti");
+       System.out.println("");
 		for (String name : list) {
 			System.out.println(name);
 		}
